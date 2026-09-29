@@ -23,3 +23,6 @@ test.txt
 backend/.venv
 backend/__pycache__/
 *.pyc
+
+
+backend/history.db
